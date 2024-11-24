@@ -1,2 +1,2 @@
 # Projects
-#Improvisor improvises melodic lines on a given chord  progression.
+#Improvisor creates melodic lines on a given chord  progression and displays it in Musescore.
